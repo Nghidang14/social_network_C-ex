@@ -1,0 +1,14 @@
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\bin\Debug\net6.0\social_network.exe
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\bin\Debug\net6.0\social_network.deps.json
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\bin\Debug\net6.0\social_network.runtimeconfig.json
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\bin\Debug\net6.0\social_network.dll
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\bin\Debug\net6.0\social_network.pdb
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\obj\Debug\net6.0\social_network.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\obj\Debug\net6.0\social_network.AssemblyInfoInputs.cache
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\obj\Debug\net6.0\social_network.AssemblyInfo.cs
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\obj\Debug\net6.0\social_network.csproj.CoreCompileInputs.cache
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\obj\Debug\net6.0\social_network.dll
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\obj\Debug\net6.0\refint\social_network.dll
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\obj\Debug\net6.0\social_network.pdb
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\obj\Debug\net6.0\social_network.genruntimeconfig.cache
+D:\Workspace\C_Sharp\c_shard_sololearn\social_network\social_network\obj\Debug\net6.0\ref\social_network.dll
